@@ -1,0 +1,96 @@
+{
+    "img_height": "480",
+    "img_width": "640",
+    "objects": [
+        {
+            "instanceId": 1,
+            "bbox": {
+                "x": 189,
+                "y": 147,
+                "w": 18,
+                "h": 15
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 2,
+            "bbox": {
+                "x": 168,
+                "y": 164,
+                "w": 22,
+                "h": 17
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 3,
+            "bbox": {
+                "x": 137,
+                "y": 179,
+                "w": 22,
+                "h": 19
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 4,
+            "bbox": {
+                "x": 218,
+                "y": 246,
+                "w": 50,
+                "h": 46
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 5,
+            "bbox": {
+                "x": 260,
+                "y": 171,
+                "w": 24,
+                "h": 22
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 6,
+            "bbox": {
+                "x": 342,
+                "y": 145,
+                "w": 18,
+                "h": 16
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 7,
+            "bbox": {
+                "x": 435,
+                "y": 145,
+                "w": 21,
+                "h": 22
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 8,
+            "bbox": {
+                "x": 484,
+                "y": 159,
+                "w": 19,
+                "h": 20
+            },
+            "label": "head"
+        },
+        {
+            "instanceId": 9,
+            "bbox": {
+                "x": 530,
+                "y": 186,
+                "w": 26,
+                "h": 20
+            },
+            "label": "head"
+        }
+    ]
+}
